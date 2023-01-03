@@ -1,8 +1,8 @@
 # (©)Codexbotz
 # Recode by @mrismanaziz
 # t.me/SharingUserbot & t.me/Lunatic0de
-# Recode now By @thisrama
-# t.me/ramsupportt & t.me/userbotch
+# Recode now By @onltbionn
+# t.me/ZennXSupport & t.me/zennihhh
 
 from pyrogram.types import CallbackQuery, InlineKeyboardButton, InlineKeyboardMarkup
 
@@ -15,7 +15,7 @@ async def cb_handler(client: Bot, query: CallbackQuery):
     data = query.data
     if data == "about":
         await query.message.edit_text(
-            text=f"<b>Informasi.\n\n • OWNER REPO : @thisrama\n • CHANNEL : <a href='https://t.me/k0kb4c0de'>JOIN</a>\n • GROUP : <a href='https://t.me/ramsupportt'>JOIN</a>\n\n Support @userbotch</b>\n",
+            text=f"<b>Informasi.\n\n • OWNER REPO : @onlybionn\n • CHANNEL : <a href='https://t.me/zennihhh'>JOIN</a>\n • GROUP : <a href='https://t.me/ZennXSupport'>JOIN</a>\n\n Support @zennihhh</b>\n",
             disable_web_page_preview=True,
             reply_markup=InlineKeyboardMarkup(
                 [[InlineKeyboardButton("• ᴛᴜᴛᴜᴘ •", callback_data="close")]]
