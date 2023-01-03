@@ -1,7 +1,7 @@
 # Credits: @mrismanaziz
 # FROM File-Sharing-Man <https://github.com/mrismanaziz/File-Sharing-Man/>
-# t.me/userbotch & t.me/ramsupportt
-# Add Code FROM 3-BUTTONS <https://github.com/ramadhani892/3-BUTTONS
+# t.me/userbotch & t.me/ZennXSupport
+# Add Code FROM 3-BUTTONS <https://github.com/BionXP/3-BUTTONS
 
 from config import FORCE_SUB_CHANNEL, FORCE_SUB_GROUP, FORCE_SUB_GROUP2
 from pyrogram.types import InlineKeyboardButton
