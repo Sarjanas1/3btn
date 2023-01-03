@@ -75,7 +75,7 @@ Gunakan bot ini dengan risiko Anda sendiri, dan gunakan bot ini dengan bijak.
 -  [Dan](https://github.com/delivrance) for [Pyrogram](https://github.com/pyrogram/pyrogram)
 -  [Risman](https://github.com/mrismanaziz) for [File-Sharing-Man](https://github.com/mrismanaziz/File-Sharing-Man)
 -  [Rama](https://github.com/ramadhani892) for [3-BUTTONS](https://github.com/ramadhani892/3-BUTTONS)
--  [Bion](https://github.com/BionXP)       for [3-BUTTONS](https://github.com/BionXP/3-BUTTONS)
+-  [Bion](https://github.com/BionXP)       for [3-BUTTONSS](https://github.com/BionXP/3-BUTTONS)
 -  Based on [CodeXBotz](https://github.com/CodeXBotz) Repo [File-Sharing-Bot](https://github.com/CodeXBotz/File-Sharing-Bot)
 
 ## 📑 License
